@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mitu247/mitu247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sushmita Paul.I am an undergraduate student of CSE, BUET.
+- 🔭 I’m currently working on computer vision based project
+- 🌱 I’m currently looking for job
+- 👯 I’m looking to collaborate on open source and group projects
+- 🤔 I have passion for solving problems
+- ⚡ Fun fact: I love cooking.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech! 
+- **Backend** - `Node.js` `Express.js`
+- **Frontend** - `React`
+- **Database** - `PostgreSQL` `OracleDB` `MySQL`
+- **Infrastructures** - `Docker` `Linux`
+- **Cloud** - `AWS (EC2), Azure Cloud Service`
+- **Productivity** - `Notion` `MS Powerpoint`
