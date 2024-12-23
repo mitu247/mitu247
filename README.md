@@ -14,3 +14,4 @@ I am Sushmita Paul.I am an undergraduate student of CSE, BUET.
 - **Infrastructures** - `Docker` `Linux`
 - **Cloud** - `AWS (EC2), Azure Cloud Service`
 - **Productivity** - `Notion` `MS Powerpoint`
+- **ML Framework** - `Pytorch` `Tensorflow`
