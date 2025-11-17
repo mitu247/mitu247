@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there, I'm 👋
 
-I am Sushmita Paul.I am an undergraduate student of CSE, BUET.
+<h3>Sushmita Paul</h3>
+I am an undergraduate student of CSE, BUET.
 - 🔭 I’m currently working on computer vision based project
 - 👯 I’m looking to collaborate on open source and group projects
 - 🤔 I have passion for solving problems
