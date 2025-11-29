@@ -11,10 +11,10 @@ I am an undergraduate student of CSE, BUET.
 - **Backend** - `Node.js` `Express.js`
 - **Frontend** - `React`
 - **Database** - `PostgreSQL` `OracleDB` `MySQL`
-- **Infrastructures** - `Docker` `Linux`
-- **Cloud** - `AWS (EC2), Azure Cloud Service`
+- **Infrastructures** - `Docker` `Linux` 
+- **Cloud** - `AWS (EC2), Azure Cloud Service`, `SkyPilot`
 - **Productivity** - `Notion` `MS Powerpoint`
-- **ML Framework** - `Pytorch` `Tensorflow`
+- **ML Framework** - `Pytorch` `Tensorflow` `TensorRT Optimization & Engine Deployment`
 
 ## Languages
 
