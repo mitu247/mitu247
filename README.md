@@ -2,6 +2,8 @@
 
 Machine Learning Engineer and CSE graduate from BUET. I work on language-model reasoning, computer vision, and reliable machine learning systems.
 
+🌐 [Portfolio](https://sushmitapaul.onrender.com/)
+
 - 🔭 Currently researching small language models and graph reasoning
 - 🤝 Open to research and open-source collaboration
 - 💡 Interested in reliable AI, efficient ML systems, and computer vision
