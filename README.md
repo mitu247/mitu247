@@ -15,6 +15,3 @@ Machine Learning Engineer and CSE graduate from BUET. I work on language-model r
 
 `AWS` · `Azure` · `SkyPilot`
 
-## GitHub Overview
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitu247&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
